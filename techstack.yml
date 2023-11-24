@@ -1,0 +1,37 @@
+repo_name: Or4cl3AI/AthenaAI
+report_id: be506c5ba173d1bb03ae56983dc5a46b
+repo_type: Public
+timestamp: '2023-11-24T01:58:17+00:00'
+requested_by: Or4cl3AI
+provider: github
+branch: main
+detected_tools_count: 3
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: index.html
+  last_updated_by: Dustin Groves
+  last_updated_on: 2023-08-26 08:46:42.000000000 Z
